@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh; 
+  }
+  
+  th {
+    width: 120px;
+    padding-top:25px;
+    padding-bottom:30px;
+  }
+  
+  td {
+    padding: 5px;
+  }
+  
+  .time{
+    height: 40px;
+  }
+
+  .Event {
+    width: 100px;
+  }
+  
+  .Event h6,h5 {
+    line-height: 0px;
+    align-content: center;
+  }
+  
+  .pink {
+    background:pink;
+  }
+  
+  .blue {
+    background:rgb(190, 219, 229);
+  }
+  
+  .yellow{
+    background: yellow;
+  }
+
+  .lunch{
+    background: #f9c8ad;
+  }
+
+  .museum{
+    background:#076a9c;
+  }
+
+  .park{
+    background:rgb(202, 245, 222);
+  }
+
+  .library{
+    background: #45818e;
+  }
+
+  .coffee{
+    background:#a48769;
+  }
+
+  .shopping{
+    background:#e06666;
+  }
+
+  .diner{
+    background:#ef8a04;
+  }
+
+  .dunkin{
+    background:plum;
+  }
+
+  .memorial{
+    background:#cfe2f3;
+  }
+
+  .gray{
+    background: gray;
+  }
+
+  .show{
+    background: #98ab8f;
+  }
+
+  .sport{
+    background:#8fce00;
+  }
